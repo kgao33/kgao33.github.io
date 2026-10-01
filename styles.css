@@ -1,0 +1,359 @@
+:root {
+  --text: #171717;
+  --muted: #666666;
+  --line: #dedede;
+  --link: #24557a;
+  --page-width: 940px;
+}
+
+/* --------------------------------
+   Global
+-------------------------------- */
+
+html {
+  font-size: 15px;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: #ffffff;
+  color: var(--text);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  line-height: 1.62;
+}
+
+/* Remove Quarto's default background effects */
+body,
+.navbar,
+.nav-footer {
+  background-color: #ffffff !important;
+}
+
+/* --------------------------------
+   Main page width and spacing
+-------------------------------- */
+
+.page-shell {
+  width: 100%;
+  max-width: var(--page-width);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 50px 55px 85px;
+  box-sizing: border-box;
+}
+
+main {
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* --------------------------------
+   Navbar
+-------------------------------- */
+
+.navbar {
+  max-width: var(--page-width);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 24px 55px 8px;
+  border: none !important;
+  box-shadow: none !important;
+  box-sizing: border-box;
+}
+
+.navbar-brand {
+  display: none !important;
+}
+
+.navbar-collapse {
+  justify-content: flex-end;
+}
+
+.navbar-nav {
+  gap: 24px;
+}
+
+.nav-link {
+  color: var(--text) !important;
+  font-size: 0.95rem;
+  font-weight: 400;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.nav-link:hover {
+  color: var(--link) !important;
+}
+
+/* --------------------------------
+   Hero / bio section
+-------------------------------- */
+
+.hero {
+  display: grid;
+  grid-template-columns: 215px minmax(0, 1fr);
+  column-gap: 58px;
+  align-items: start;
+  margin-top: 5px;
+  margin-bottom: 82px;
+}
+
+.hero-photo {
+  width: 215px;
+}
+
+.profile-photo {
+  display: block;
+  width: 215px;
+  height: 270px;
+  object-fit: cover;
+  object-position: center top;
+  border: none;
+}
+
+.hero-copy {
+  padding-top: 0;
+}
+
+.hero-copy h1 {
+  margin: -4px 0 28px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.08;
+  letter-spacing: -0.01em;
+}
+
+.hero-copy p {
+  max-width: 610px;
+  margin-top: 0;
+  margin-bottom: 18px;
+}
+
+.hero-copy strong {
+  font-weight: 600;
+}
+
+/* --------------------------------
+   Links
+-------------------------------- */
+
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--link);
+  text-decoration: underline;
+}
+
+/* --------------------------------
+   Section heading
+-------------------------------- */
+
+h2 {
+  margin: 0 0 34px;
+  padding-bottom: 11px;
+  border-bottom: 1px solid var(--line);
+
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.25;
+}
+
+/* --------------------------------
+   Papers
+-------------------------------- */
+
+.paper {
+  margin-bottom: 53px;
+}
+
+.paper h3,
+.teaching-entry h3 {
+  max-width: 820px;
+  margin: 0 0 13px;
+
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.25rem;
+  font-weight: 600;
+  line-height: 1.38;
+}
+
+.paper p {
+  max-width: 810px;
+  margin-top: 0;
+  margin-bottom: 14px;
+}
+
+.paper-links {
+  display: inline-block;
+  margin-top: 10px;
+
+  color: var(--muted);
+  font-size: 0.94rem;
+}
+
+.teaching-entry {
+  margin-bottom: 30px;
+}
+
+.teaching-entry p {
+  margin: 0;
+  color: var(--muted);
+}
+
+/* --------------------------------
+   Expandable abstract
+-------------------------------- */
+
+details {
+  max-width: 810px;
+  margin-top: 13px;
+  margin-bottom: 5px;
+}
+
+summary {
+  display: inline-block;
+  cursor: pointer;
+  color: var(--link);
+  font-size: 0.96rem;
+  list-style: none;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+summary:hover {
+  text-decoration: underline;
+}
+
+details[open] summary {
+  margin-bottom: 12px;
+}
+
+details p {
+  margin-top: 0;
+  color: var(--muted);
+}
+
+/* --------------------------------
+   Footer
+-------------------------------- */
+
+.nav-footer {
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 0.88rem;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* --------------------------------
+   Remove unnecessary Quarto spacing
+-------------------------------- */
+
+#quarto-content {
+  padding: 0 !important;
+}
+
+.page-columns {
+  display: block !important;
+}
+
+.content {
+  width: 100% !important;
+  max-width: none !important;
+}
+
+/* --------------------------------
+   Tablet
+-------------------------------- */
+
+@media (max-width: 900px) {
+
+  .page-shell {
+    padding-left: 45px;
+    padding-right: 45px;
+  }
+
+  .navbar {
+    padding-left: 45px;
+    padding-right: 45px;
+  }
+
+  .hero {
+    grid-template-columns: 190px minmax(0, 1fr);
+    column-gap: 45px;
+  }
+
+  .hero-photo,
+  .profile-photo {
+    width: 190px;
+  }
+
+  .profile-photo {
+    height: 240px;
+  }
+
+  .hero-copy h1 {
+    font-size: 1.9rem;
+  }
+}
+
+/* --------------------------------
+   Mobile
+-------------------------------- */
+
+@media (max-width: 680px) {
+
+  .page-shell {
+    padding: 28px 24px 65px;
+  }
+
+  .navbar {
+    padding: 18px 24px 5px;
+  }
+
+  .hero {
+    display: block;
+    margin-bottom: 58px;
+  }
+
+  .hero-photo {
+    width: 190px;
+    margin-bottom: 28px;
+  }
+
+  .profile-photo {
+    width: 190px;
+    height: 235px;
+  }
+
+  .hero-copy h1 {
+    margin-top: 0;
+    margin-bottom: 22px;
+    font-size: 1.8rem;
+  }
+
+  h2 {
+    font-size: 1.62rem;
+    margin-bottom: 28px;
+  }
+
+  .paper {
+    margin-bottom: 45px;
+  }
+
+  .paper h3,
+  .teaching-entry h3 {
+    font-size: 1.17rem;
+  }
+}

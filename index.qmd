@@ -1,0 +1,90 @@
+---
+title: ""
+---
+
+::::: {.page-shell}
+
+::: {.hero}
+::: {.hero-photo}
+![](images/photo.JPG){.profile-photo fig-alt="Kai Gao"}
+:::
+
+::: {.hero-copy}
+# Kai Gao
+
+I am a 6th year PhD student in economics at the University of Wisconsin–Madison, specializing in industrial organization and environmental economics. My research studies how regulation changes consumer behavior and firms' product design.
+
+I am on the academic job market in 2026–27.
+
+[Email](mailto:kgao33@wisc.edu) &nbsp;&nbsp; [CV](files/Kai_Gao_CV.pdf)
+:::
+:::
+
+## Work in Progress {#work-in-progress}
+
+::: {.paper}
+### Beyond the Label: Do Ecodesign Regulations Reduce Real-World Energy Use? (JMP)
+
+Energy-efficiency regulation often evaluates a product using a standardized mode that differs from how households actually use it. I study the 2021 European washing-machine energy-label reform using product-level sales, user manuals, and a household survey. I examine how consumers respond to energy labels and how firms redesign both regulated and unregulated wash programs.
+
+<details>
+<summary>Abstract</summary>
+
+Ecodesign regulations often assess efficiency in specific operating modes, while real-world energy use depends on efficiency across modes and consumers’ choices among them. I study this mismatch in washing machines, where energy labels assess only the Eco program. On the demand side, I find that consumers rarely use the Eco program yet favor higher-rated machines, misinterpreting the ratings as measures of whole-machine efficiency. On the supply side, energy use falls in Eco but rises in hotter Cotton programs following an EU energy-label reform. I develop and estimate an equilibrium model of consumers’ product and program choices and firms’ program design to quantify the implications for energy use and welfare. The model implies that the reform increases total energy consumption by 4.1%, driven by more energy-intensive Cotton programs and consumer substitution toward them. The welfare effect reflects a trade-off between improved cleaning performance and higher energy costs. I then examine alternative label formulas that incorporate both Eco and Cotton performance. Broadening the formula reduces energy consumption while maintaining consumer welfare, demonstrating the importance of accounting for consumer use in regulatory design.
+
+</details>
+
+:::
+
+::: {.paper}
+### Does Carbon Pricing Misallocate Clean Technology? Evidence from Global Shipping
+
+I study whether geographically fragmented carbon pricing changes where carriers deploy cleaner ships. The project uses global vessel movements and emissions data around the inclusion of maritime transport in the EU Emissions Trading System to measure route reassignment and its implications for the allocation of clean technology.
+
+<details>
+<summary>Abstract</summary>
+
+</details>
+
+:::
+
+::: {.paper}
+### Instrument Choice in Merger Simulations
+
+With Adam Dearing, Lorenzo Magnolfi, and Christopher Sullivan
+:::
+
+## Other Writing {#other-writing}
+
+::: {.paper}
+### What Drives the Repowering of Wind Turbines? Evidence from the Danish Wind Energy Industry.
+
+<details>
+<summary>Abstract</summary>
+
+I study how price subsidies affect wind turbine repowering—the replacement of old turbines with new ones—in Denmark. I develop a dynamic model of developers' operational decisions to disentangle the roles of the feed-in tariff and the scrapping certificate program in repowering. I estimate the model using a panel of 7,541 Danish wind turbines observed from 2000 to 2020. The results indicate that price subsidies account for 15% of the increase in capacity from repowering over the sample period. Extending the subsidy eligibility period by ten years reduces repowering capacity by 4%.
+
+</details>
+:::
+
+## Teaching Experience {#teaching-experience}
+
+::: {.teaching-entry}
+### ECON 310: Statistics: Measurement in Economics
+
+TA · Spring 2026, Fall 2026
+:::
+
+::: {.teaching-entry}
+### ECON 460: Economic Forecasting
+
+Instructor · Fall 2025
+:::
+
+::: {.teaching-entry}
+### PhD Math Camp
+
+TA · Summer 2022
+:::
+
+:::::
