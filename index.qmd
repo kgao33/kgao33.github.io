@@ -20,17 +20,19 @@ I am on the academic job market in 2026–27.
 :::
 :::
 
-## Work in Progress {#work-in-progress}
+## Working Papers {#working-papers}
 
 ::: {.paper}
-### Beyond the Label: Do Ecodesign Regulations Reduce Real-World Energy Use? (JMP)
+### Beyond the Label: Do Ecodesign Regulations Reduce Real-World Energy Use? (Job Market Paper)
+
+[Paper (PDF)](files/Gao_JMP.pdf)
 
 Energy-efficiency regulation often evaluates a product using a standardized mode that differs from how households actually use it. I study the 2021 European washing-machine energy-label reform using product-level sales, user manuals, and a household survey. I examine how consumers respond to energy labels and how firms redesign both regulated and unregulated wash programs.
 
 <details>
 <summary>Abstract</summary>
 
-Ecodesign regulations often assess efficiency in specific operating modes, while real-world energy use depends on efficiency across modes and consumers’ choices among them. I study this mismatch in washing machines, where energy labels assess only the Eco program. On the demand side, I find that consumers rarely use the Eco program yet favor higher-rated machines, misinterpreting the ratings as measures of whole-machine efficiency. On the supply side, energy use falls in Eco but rises in hotter Cotton programs following an EU energy-label reform. I develop and estimate an equilibrium model of consumers’ product and program choices and firms’ program design to quantify the implications for energy use and welfare. The model implies that the reform increases total energy consumption by 4.1%, driven by more energy-intensive Cotton programs and consumer substitution toward them. The welfare effect reflects a trade-off between improved cleaning performance and higher energy costs. I then examine alternative label formulas that incorporate both Eco and Cotton performance. Broadening the formula reduces energy consumption while maintaining consumer welfare, demonstrating the importance of accounting for consumer use in regulatory design.
+This paper studies how ecodesign regulation shapes product design and consumer welfare when compliance is tied to a single operating mode rather than overall real-world use. I examine the German washing machine market following the 2021 EU reform, which rescaled energy-efficiency labels and imposed a duration constraint on the regulated Eco program. Combining product-program-level data with a new laundry-habit survey, I document substantial scope for regulatory leakage, as the regulated Eco program accounts for only about 10 percent of reported wash cycles. Following the reform, Eco energy consumption declines, while energy consumption increases in hotter Cotton programs. To explain these patterns, I develop and estimate an equilibrium model of endogenous product entry, pricing, and program design that incorporates household wash-program choice. The estimates show that firms respond to regulatory incentives by improving measured Eco efficiency while offering more energy-intensive Cotton programs to attract households that prefer longer wash cycles. Counterfactuals imply that the Eco-duration cap raises reference-inclusive electricity consumption by 11.4 percent relative to retaining energy labels without the cap. Broadening the efficiency index to include Cotton 60°C reduces gross electricity consumption by 6.0 percent and increases consumer surplus relative to an uncapped Eco-only index.
 
 </details>
 
@@ -41,12 +43,11 @@ Ecodesign regulations often assess efficiency in specific operating modes, while
 
 I study whether geographically fragmented carbon pricing changes where carriers deploy cleaner ships. The project uses global vessel movements and emissions data around the inclusion of maritime transport in the EU Emissions Trading System to measure route reassignment and its implications for the allocation of clean technology.
 
-<details>
-<summary>Abstract</summary>
 
-</details>
 
 :::
+
+## Work in Progress {#work-in-progress}
 
 ::: {.paper}
 ### Instrument Choice in Merger Simulations
