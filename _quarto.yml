@@ -1,10 +1,15 @@
 project:
   type: website
   output-dir: docs
+  post-render:
+    - seo-post-render.js
+  resources:
+    - robots.txt
+    - google8250aed225434227.html
 
 website:
   title: "Kai Gao"
-  site-url: "https://kgao33.github.io"
+  site-url: "https://kgao33.github.io/"
   navbar:
     left:
       - href: "#work-in-progress"

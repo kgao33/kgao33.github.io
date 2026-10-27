@@ -1,5 +1,11 @@
 ---
+pagetitle: "Kai Gao | Economics PhD Candidate | UW–Madison"
 title: ""
+title-prefix: ""
+description: "Kai Gao is an Economics PhD candidate at UW–Madison studying industrial organization, environmental economics, energy regulation, and firm product design."
+include-in-header:
+  text: |
+    <link rel="canonical" href="https://kgao33.github.io/">
 ---
 
 ::::: {.page-shell}
@@ -23,7 +29,7 @@ I am on the academic job market in 2026–27.
 ## Working Papers {#working-papers}
 
 ::: {.paper}
-### Beyond the Label: Do Ecodesign Regulations Reduce Real-World Energy Use? (Job Market Paper)
+### Beyond the Label: Do Ecodesign Regulations Reduce Real-World Energy Use? (Job Market Paper) {#beyond-the-label-do-ecodesign-regulations-reduce-real-world-energy-use-jmp}
 
 [Paper (PDF)](files/Gao_JMP.pdf)
 
