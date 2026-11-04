@@ -46,7 +46,9 @@ I study how renewable-energy subsidies affect the replacement of aging wind turb
 ## Work in Progress {#work-in-progress}
 
 ::: {.paper}
-### Does Carbon Pricing Misallocate Clean Technology? Evidence from Global Shipping
+### Fragmented Environmental Regulation in Global Shipping
+
+I study how geographically fragmented sulfur regulation shapes carriers' vessel deployment, routing, and technology investment. Combining vessel characteristics and pollution-control technology records with AIS movements and freight rates, I examine responses to the 2020 tightening of the global fuel-sulfur limit. I am developing an equilibrium model to compare the welfare effects of regional sulfur standards, voyage-based pollution taxes, and vessel-based requirements.
 :::
 
 ::: {.paper}
