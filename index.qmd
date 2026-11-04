@@ -33,7 +33,7 @@ I am on the academic job market in 2026–27.
 
 [Paper (PDF)](files/Gao_JMP.pdf)
 
-Energy-efficiency regulation often evaluates a product using a standardized mode that differs from how households actually use it. I study the 2021 European washing-machine energy-label reform using product-level sales, user manuals, and a household survey. I examine how consumers respond to energy labels and how firms redesign both regulated and unregulated wash programs.
+I study the 2021 European washing-machine energy-label reform. Firms improve Eco efficiency while energy use rises in other wash programs. An equilibrium model of product design, purchases, and program choice quantifies the implications for actual electricity use and welfare.
 
 <details>
 <summary>Abstract</summary>
@@ -45,33 +45,21 @@ This paper studies how ecodesign regulation shapes product design and consumer w
 :::
 
 ::: {.paper}
-### Does Carbon Pricing Misallocate Clean Technology? Evidence from Global Shipping
+### What Drives the Repowering of Wind Turbines? Evidence from the Danish Wind Energy Industry
 
-I study whether geographically fragmented carbon pricing changes where carriers deploy cleaner ships. The project uses global vessel movements and emissions data around the inclusion of maritime transport in the EU Emissions Trading System to measure route reassignment and its implications for the allocation of clean technology.
-
-
-
+I study how renewable-energy subsidies affect the replacement of aging wind turbines in Denmark. A dynamic model of investment and replacement examines how support for existing installations shapes the timing of technology upgrades and evaluates alternative subsidy designs.
 :::
 
 ## Work in Progress {#work-in-progress}
 
 ::: {.paper}
+### Does Carbon Pricing Misallocate Clean Technology? Evidence from Global Shipping
+:::
+
+::: {.paper}
 ### Instrument Choice in Merger Simulations
 
 With Adam Dearing, Lorenzo Magnolfi, and Christopher Sullivan
-:::
-
-## Other Writing {#other-writing}
-
-::: {.paper}
-### What Drives the Repowering of Wind Turbines? Evidence from the Danish Wind Energy Industry.
-
-<details>
-<summary>Abstract</summary>
-
-I study how price subsidies affect wind turbine repowering—the replacement of old turbines with new ones—in Denmark. I develop a dynamic model of developers' operational decisions to disentangle the roles of the feed-in tariff and the scrapping certificate program in repowering. I estimate the model using a panel of 7,541 Danish wind turbines observed from 2000 to 2020. The results indicate that price subsidies account for 15% of the increase in capacity from repowering over the sample period. Extending the subsidy eligibility period by ten years reduces repowering capacity by 4%.
-
-</details>
 :::
 
 ## Teaching Experience {#teaching-experience}

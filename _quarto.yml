@@ -12,6 +12,8 @@ website:
   site-url: "https://kgao33.github.io/"
   navbar:
     left:
+      - href: "#working-papers"
+        text: Working Papers
       - href: "#work-in-progress"
         text: Work in Progress
       - href: "#teaching-experience"
