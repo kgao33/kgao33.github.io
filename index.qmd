@@ -47,6 +47,12 @@ This paper studies how ecodesign regulation shapes product design and consumer w
 :::
 
 ::: {.paper}
+### Pointwise Conditional Likelihood Estimation of Dynamic Portfolio Games
+
+[Synopsis](files/dynamic_portfolio_games_synopsis.pdf)
+:::
+
+::: {.paper}
 ### What Drives the Repowering of Wind Turbines? Evidence from the Danish Wind Energy Industry
 
 <details>
