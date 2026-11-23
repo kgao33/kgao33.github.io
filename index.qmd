@@ -49,7 +49,18 @@ This paper studies how ecodesign regulation shapes product design and consumer w
 ::: {.paper}
 ### [Pointwise Conditional Likelihood Estimation of Dynamic Portfolio Games](files/PCCP.pdf)
 
-[Synopsis](files/dynamic_portfolio_games_synopsis.pdf)
+<div class="paper-abstract-links">
+<a class="synopsis-link" href="files/dynamic_portfolio_games_synopsis.pdf">Synopsis</a>
+
+<details>
+<summary>Abstract</summary>
+
+<p>
+A firm choosing a portfolio of products faces an action space that grows exponentially with the number of potential products. I develop a pointwise conditional choice probability (PCCP) estimator for dynamic games of incomplete information with large portfolio action spaces. In addition to conditioning on the public state, the estimator evaluates each product’s choice conditional on the firm’s remaining choices. Under portfolio-level extreme-value shocks, this conditioning avoids portfolio enumeration in the estimation criterion while preserving interactions among decisions. Dynamic policy evaluation uses Gibbs sampling to compute portfolio expectations and thermodynamic integration to recover joint policy entropy. Under the maintained assumptions, PCCP preserves the equilibria and population identified set of the conventional joint-portfolio conditional choice probability (CCP) formulation. In Monte Carlo experiments, PCCP estimates closely track those of the CCP estimator computed by enumeration. An application to washing-machine introductions after the European Union’s energy-label reform accommodates billions of feasible portfolios. I find sharply declining entry costs for the highest efficiency class between 2021 and 2023.
+</p>
+
+</details>
+</div>
 :::
 
 ::: {.paper}
