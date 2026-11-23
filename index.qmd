@@ -47,7 +47,7 @@ This paper studies how ecodesign regulation shapes product design and consumer w
 :::
 
 ::: {.paper}
-### Pointwise Conditional Likelihood Estimation of Dynamic Portfolio Games
+### [Pointwise Conditional Likelihood Estimation of Dynamic Portfolio Games](files/PCCP.pdf)
 
 [Synopsis](files/dynamic_portfolio_games_synopsis.pdf)
 :::
